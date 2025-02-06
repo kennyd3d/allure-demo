@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_multiplication","","Thu Feb 06 00:09:21 GMT 2025","passed","Thu Feb 06 00:09:21 GMT 2025","","example_test","",""
+"","0","test_addition","","Thu Feb 06 00:09:21 GMT 2025","passed","Thu Feb 06 00:09:21 GMT 2025","","example_test","",""
